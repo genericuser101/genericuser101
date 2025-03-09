@@ -6,4 +6,4 @@ GitHub Collaborations Projects:
 - Stochatic Optimisation for Statistical Epidemiology (MSc) **(sole author)**
 - Parallelised Trajectory Analysis for Molecular Dynamic Simulation (HIDDEN) **(sole author)**
 
-Languages: Python (pytorch, jax, dask, multiprocessing), C, Bash, MATLAB (and Simulink, I know, not a language), Fortran, English, Russian, German, Ukrainian
+Languages: Python (pytorch, jax, dask, multiprocessing), C, shell, MATLAB (and Simulink, I know, not a language), English, Russian, German, Ukrainian
