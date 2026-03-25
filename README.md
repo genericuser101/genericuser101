@@ -3,5 +3,3 @@ GitHub Collaborations Projects:
 - trajectory-kit: A repository for processing MD trajectory files **(sole author)**
 - Acitve Learning for GP Surrogate Model (WindDesc) **(collaborator)**
 - Non-Linear Kalman Filtering for Trajectory Estimation (Tiangong) **(collaborator)**
-- Stochatic Optimisation for Statistical Epidemiology (MSc) **(sole author)**
-  
