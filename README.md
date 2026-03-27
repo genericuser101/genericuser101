@@ -1,3 +1,5 @@
+I write MD software for structure generation and analysis, hopefully you find some of it useful. Get in touch if you need something specific or if you are facing any issue with the scripts that I have written, I usually have a 1-work-week turnaround on most features and bug fixes.
+
 GitHub Collaborations Projects:
 - chirality-kit: A standalone python script for MD-ready CNT generation  **(sole author)**
 - trajectory-kit: A repository for processing MD trajectory files **(sole author)**
